@@ -4,6 +4,7 @@
 
 
 
+
 git clone http://github.com/xxoome/v2ray -b master
 
 cd v2ray
@@ -14,13 +15,22 @@ chmod +x install.sh
 
 
 
+
+
+
+
 安装完成后，输入 v2ray 即可管理 V2Ray
 
 
 
 
 
+
+
+
 快速管理
+
+
 
 
 v2ray info 查看 V2Ray 配置信息
@@ -57,7 +67,13 @@ v2ray uninstall 卸载 V2Ray
 
 
 
+
+
+
 配置文件路径
+
+
+
 
 
 V2Ray 配置文件路径：/etc/v2ray/config.json
